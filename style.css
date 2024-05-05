@@ -1,0 +1,21 @@
+body{
+    margin-left: 150px;
+}
+.call{
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+}
+.col{
+    margin-left: -100px !important;
+}
+.btn:hover{
+    background-color: white !important;
+    color: black !important;
+}
+.connnn{
+    display: grid;  grid-template-columns: repeat(2fr,1fr,1fr);
+}
+.child{
+    border: 4px solid orangered;
+}
